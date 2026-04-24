@@ -9,6 +9,7 @@
  *
  * Compile: gcc -o memory_manager memory_manager.c
  * Run:     ./memory_manager
+ 
  */
 
 #include <stdio.h>
